@@ -1,0 +1,45 @@
+{
+  "title": "Wellbeing Questionnaire",
+  "personToAnswer": "Carer",
+  "icon": "wellbeing",
+  "short_title": "Quality of Life",
+  "guidance": "7 questions \n5-7 minutes to complete",
+  "prompt": "In this questionnaire we’ll ask you to rate how you feel about different aspects of your life over the past few weeks. Please answer them by selecting the response that is closest to how you feel. You may feel that some statements are a bit odd or not relevant to you but please try to answer them as best you can.",
+  "options": [
+              {"text": "All of the time", "value": "5"},
+              {"text": "Often", "value": "4"},
+              {"text": "Some of the time", "value": "3"},
+              {"text": "Rarely", "value": "2"},
+              {"text": "None of the time", "value": "1"}
+              ],
+  "questions": [
+                {
+                "code": "SWEM01",
+                "text": "I've been feeling optimistic about the future."
+                },
+                {
+                "code": "SWEM02",
+                "text": "I've been feeling useful."
+                },
+                {
+                "code": "SWEM03",
+                "text": "I've been feeling relaxed."
+                },
+                {
+                "code": "SWEM04",
+                "text": "I've been dealing with problems well."
+                },
+                {
+                "code": "SWEM05",
+                "text": "I've been thinking clearly."
+                },
+                {
+                "code": "SWEM06",
+                "text": "I've been feeling close to other people."
+                },
+                {
+                "code": "SWEM07",
+                "text": "I've been able to make up my own mind about things."
+                }
+                ]
+}

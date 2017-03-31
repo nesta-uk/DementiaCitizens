@@ -1,0 +1,44 @@
+{
+  "onboarding": [{
+                 "title": "Your Dementia Citizens Study",
+                 "text": "Welcome to the Dementia Citizens Study!",
+                 "imageName": "dc-intro-1",
+                 "videoName": "dc"
+                 }, {
+                 "title": "What is the study?",
+                 "text": "Description of the study and what you will do goes here.",
+                 "imageName": "dc-intro-2",
+                 }, {
+                 "title": "How does it work?",
+                 "text": "This app will help you to do these things.",
+                 "imageName": "dc-intro-3"
+                 }, {
+                 "title": "Using the app",
+                 "text": "We’ll collect anonymised information and use it to try and improve dementia care.",
+                 "imageName": "dc-intro-4"
+                 }],
+
+  "consent_prime": [{
+                    "title": "Research Study",
+                    "text": "You should only take part if you understand what it means to take part in the study and consent. All the important information is on the next page. If there’s anything you don’t understand, tap the cross in the top right to quit.",
+                    "imageName": "consent-prime",
+                    "buttonTitle": "Continue"
+                    }],
+
+  "signed_up": [ {
+                "title": "All set up!",
+                "text": "You’re signed up to the Dementia Citizens study. Thanks for helping to improve dementia research and care! There are some questionnaires for you to answer before getting started.",
+                "buttonTitle": "Next",
+                "imageName": "signed-up"
+                }],
+
+
+  "ineligible": [ {
+                 "title":"Study eligibility",
+                 "text": "Because this study is for people affected by dementia, we won’t be able to use your data. However, you can carry on to use the app if you wish.",
+                 "imageName": "dc-eligibility",
+                 "buttonTitle": "Continue",
+                 "linkText": "Visit Join Dementia Research to find out how to take part in dementia research",
+                 "link": "https://www.joindementiaresearch.nihr.ac.uk/"
+                 }]
+}

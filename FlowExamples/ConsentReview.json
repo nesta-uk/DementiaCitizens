@@ -1,0 +1,46 @@
+ [
+  {"title": "What You’ll Do",
+  "text": "We recommend using the app at least twice a week for 30 minutes. We would also like you to answer some research questionnaires.",
+  "links": [{"link": "http://example.com/#taking-part", "linkText": "More Information"}],
+  "icon" : "example-image"
+  },
+  {"title": "Research Questionnaires",
+  "text": "After joining this study you will be asked some research questions, which should take no more than 20 minutes. You’ll be asked to do this twice more during the study. We’ll also ask you questions after each significant period of use.",
+  "links": [{"link": "http://example.com/#research-questions", "linkText": "More Information"}],
+  "icon" : "example-image"
+  },
+  {"title": "Risks",
+  "text": "A summary of risks go here.",
+  "links": [{"link": "http://example.com/#risks", "linkText": "More Information"}],
+  "icon" : "example-image"
+  },
+  {"title": "Data Collection",
+  "text": "A summary of the data that will be collected during your study.",
+  "links": [{"link": "http://example.com/#data-collection", "linkText": "More Information"}],
+  "icon" : "example-image"
+  },
+  {"title": "Data Sharing",
+  "text": "A summary of how data is shared during your study and a link to your privacy policy.",
+  "links": [{"link": "http://example.com/#privacy", "linkText": "View Privacy Policy"}, {"link": "http://example.com/#data-sharing", "linkText": "More Information"}],
+  "icon" : "example-image"
+  },
+  {"title": "Use of Data",
+  "text": "A summary of how data will be used and published.",
+  "links": [{"link": "http://example.com/#use-of-data", "linkText": "More Information"}],
+  "icon" : "example-image"
+  },
+  {"title": "End of the Study",
+  "text": "A summary of how long the study will last and what happens afterwards.",
+  "links": [{"link": "http://example.com/#end", "linkText": "More Information"}],
+  "icon" : "example-image"
+  },
+  {"title": "Leaving the Study",
+  "text": "You can leave the study at any time once you have joined.",
+  "links": [{"link": "http://example.com/#leaving", "linkText": "More Information"}],
+  "icon" : "example-image"
+  },
+  {"title": "Ethics",
+  "text": "A summary of your study ethics and who to contact.",
+  "links": [{"link": "http://example.com/#ethics", "linkText": "More Information"}],
+  "icon" : "example-image"}
+  ]

@@ -1,0 +1,36 @@
+{
+  "title": "Recent Experience of the App",
+  "shortTitle": "Recent Experience",
+  "guidance": "4 questions.\n5 minutes to complete",
+  "prompt": "In this questionnaire we’ll ask you a few questions about your recent session.",
+  "questions": [
+                {
+                "code": "PSFP1",
+                "text": "I was interested",
+                "left-label": "Not a lot",
+                "right-label": "A lot",
+                "person": "principal"
+                },
+                {
+                "code": "PSFP2",
+                "text": "I enjoyed it",
+                "left-label": "Not a lot",
+                "right-label": "A lot",
+                "person": "principal"
+                },
+                {
+                "code": "PSFP3",
+                "text": "I felt involved",
+                "left-label": "Not a lot",
+                "right-label": "A lot",
+                "person": "principal"
+                },
+                {
+                "code": "PSFP4",
+                "text": "I feel cheerful right now",
+                "left-label": "Not a lot",
+                "right-label": "A lot",
+                "person": "principal"
+                }
+      ]
+}

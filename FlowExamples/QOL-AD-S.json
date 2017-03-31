@@ -1,0 +1,64 @@
+{
+  "title": "Quality of Life Questionnaire",
+  "personToAnswer": "Principal",
+  "icon": "qol",
+  "short_title": "Quality of life",
+  "guidance": "12 questions \n10-12 minutes to complete",
+  "prompt": "In this questionnaire we’ll ask you to rate how you feel about different aspects of your life over the past few weeks. Please answer them by selecting the response that is closest to how you feel. You may feel that some statements are a bit odd or not relevant to you but please try to answer them as best you can.",
+  "options": [
+              {"text": "Excellent", "value": "4"},
+              {"text": "Good", "value": "3"},
+              {"text": "Fair", "value": "2"},
+              {"text": "Poor", "value": "1"},
+              ],
+  "questions": [
+                {
+                "code": "QOLP01",
+                "text": "How do you feel about your physical health? Do you think it’s poor, fair, good, or excellent? Tap whichever word you think best describes your physical health right now."
+                },
+                {
+                "code": "QOLP02",
+                "text": "How do you feel about your energy level? Rate how you have been feeling most of the time lately."
+                },
+                {
+                "code": "QOLP03",
+                "text": "How has your mood been lately? Has it been…?"
+                },
+                {
+                "code": "QOLP04",
+                "text": "How do you feel about your living situation? Is it…"
+                },
+                {
+                "code": "QOLP05",
+                "text": "How do you feel about your memory? Is it…"
+                },
+                {
+                "code": "QOLP06",
+                "text": "Overall, how do you feel about your relationship with your family members and relations such as siblings, children, nieces, nephews? Is it…"
+                },
+                {
+                "code": "QOLP08",
+                "text": "How do you feel about your relationship with your friends?"
+                },
+                {
+                "code": "QOLP09",
+                "text": "Overall, how do you feel about yourself? Do you feel…?"
+                },
+                {
+                "code": "QOLP10",
+                "text": "How do you feel about your ability to do things like chores around the house or other tasks you need to do? Is your ability…?"
+                },
+                {
+                "code": "QOLP11",
+                "text": "How do you feel about your ability to do things for fun, that you enjoy? Is your ability…?"
+                },
+                {
+                "code": "QOLP12",
+                "text": "How do you feel about your your financial situation? Do you feel it’s…?"
+                },
+                {
+                "code": "QOLP13",
+                "text": "Overall, how do you feel about your life as a whole? Do you feel it’s…?"
+                }
+                ]
+}
