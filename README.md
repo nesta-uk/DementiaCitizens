@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # Dementia Citizens iOS Research Code
 
 [Dementia Citizens](http://dementiacitizens.org/) is a citizen science project aiming to connect people with dementia and their carers with researchers in dementia care. In August 2016, we launched two iOS Apps in Beta. This repository contains the shared code that implemented the research features of each application. This does **not** represent a finished framework or library and there is currently no plan to maintain it. Instead it is here as a public document of the project so that others could benefit from our work in this area.
